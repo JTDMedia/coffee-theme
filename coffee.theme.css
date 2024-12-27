@@ -1,0 +1,54 @@
+/**
+  * @name Coffe
+  * @author JustTheDev
+  * @version macchiato
+  * @description Nice coffee theme for vencord
+*/
+
+:root {
+    --background-primary: #24273a;
+    --background-secondary: #1e2030;
+    --background-tertiary: #181926;
+    --header-primary: #cad3f5;
+    --header-secondary: #b8c0e0;
+    --text-normal: #cad3f5;
+    --text-muted: #a5adcb;
+    --interactive-normal: #939ab7;
+    --interactive-hover: #939ab7;
+    --interactive-active: #cad3f5;
+    --interactive-muted: #a5adcb;
+    --background-modifier-hover: #363a4f;
+    --background-modifier-active: #363a4f;
+    --background-modifier-selected: #363a4f;
+    --background-accent: #7dc4e4;
+    --background-mentioned: #eed49f17;
+    --background-mentioned-hover: #939ab7;
+    --input-background: #181926;
+    --chat-background: #24273a;
+    --link: #7dc4e4;
+    --status-online: #a6da95;
+    --status-idle: #eed49f;
+    --status-dnd: #ed8796;
+    --status-offline: #5b6078;
+    --mention-line: #eed49f;
+    --reaction-icon: #cad3f5;
+}
+
+/* Example adjustments for other UI elements */
+.message-content {
+    color: var(--text-normal);
+}
+
+.message-header {
+    color: var(--header-secondary);
+}
+
+.channel-name {
+    color: var(--interactive-normal);
+}
+
+.chat {
+    background-color: var(--chat-background);
+}
+
+/* Add additional customizations below */
