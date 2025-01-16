@@ -1,5 +1,18 @@
-# coffee-theme
-Nice coffe theme for vencord or betterdiscord :)
+<div align="center">
 
+# Coffee v1
 
-if you want to use just use the coffee.theme.css and follow instructions for your discord modded client. im to lazy to add instructions here :p
+![img](img)
+
+</div>
+
+## Installing
+
+Note: Coffee doesn't actively support plugins (as in, we don't seek out and actively theme fixes to every new plugin). However, when a plugin is widely used, we try our best to stay compatible.
+
+**For BD and Vencord:**
+
+Download the theme file from github and move it into your injector's themes folder:
+
+- BetterDiscord: `%appdata%\betterdiscord\themes`
+- Vencord: `%appdata%\vencord\themes`
