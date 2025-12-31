@@ -1,8 +1,9 @@
+**IMPORTANT NOTICE**
+This theme seems to no longer be functional.
+
 <div align="center">
 
 # Coffee v1
-
-![img](img)
 
 </div>
 
